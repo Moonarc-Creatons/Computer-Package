@@ -1,0 +1,320 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/ARIALBD_11.TTF
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:980756
+FileModTime:665710244
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial
+StyleName:Black
+MenuName:Arial Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Arial Black
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/ARIBLK_6.TTF
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:167592
+FileModTime:665710244
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/AdobeFnt25.lst
+FileLength:7062
+FileModTime:810406533
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AkayaKanadaka-Regular
+FamilyName:Akaya Kanadaka
+StyleName:Regular
+MenuName:Akaya Kanadaka
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Akaya Kanadaka Regular
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/AkayaKanadaka-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:336124
+FileModTime:779759172
+NameArray:0,Win,1,Akaya Kanadaka
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmericanTypewriterStd-Light
+FamilyName:ITC American Typewriter Std
+StyleName:Light
+MenuName:American Typewriter Std Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:AmericanTypewriterStd-Light
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/AmericanTypewriterStd-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:66152
+FileModTime:655403105
+DesignSize:120
+NameArray:0,Mac,18,American Typewriter Std Lt
+NameArray:0,Mac,4,AmericanTypewriterStd-Light
+NameArray:0,Win,1,American Typewriter Std Lt
+NameArray:0,Win,16,ITC American Typewriter Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:803199581
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+MenuName:Open Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/OpenSans-Bold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:224592
+FileModTime:726450210
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Extrabold
+FamilyName:Open Sans
+StyleName:Extrabold
+MenuName:Open Sans Extrabold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Extrabold
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/OpenSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:222584
+FileModTime:726450210
+NameArray:0,Mac,4,Open Sans Extrabold
+NameArray:0,Win,1,Open Sans Extrabold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSansLight-Italic
+FamilyName:Open Sans
+StyleName:Light Italic
+MenuName:Open Sans Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Open Sans Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/OpenSans-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:213128
+FileModTime:726450210
+NameArray:0,Mac,4,Open Sans Light Italic
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+MenuName:Open Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Light
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/OpenSans-Light_0.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:222412
+FileModTime:726450210
+NameArray:0,Mac,4,Open Sans Light
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Medium
+FamilyName:Open Sans
+StyleName:Medium
+MenuName:Open Sans Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Medium
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/OpenSans-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:129948
+FileModTime:687852212
+NameArray:0,Win,1,Open Sans Medium
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Semibold
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/OpenSans-Semibold_0.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:221328
+FileModTime:726450210
+NameArray:0,Mac,4,Open Sans Semibold
+NameArray:0,Win,1,Open Sans Semibold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AmericanaBT-ExtraBoldCondensed
+FamilyName:Americana XBdCn BT
+StyleName:Extra Bold
+MenuName:Americana XBdCn BT
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Americana Extra Bold Condensed BT
+WritingScript:Roman
+OutlineFileName:/Users/mac/MacBook/Zurich/Ajay Publications/Package/Book 3/Document fonts/amrcaxbc_0.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:52184
+NameArray:0,Mac,4,Americana Extra Bold Condensed BT
+NameArray:0,Win,1,Americana XBdCn BT
+%EndFont
+
